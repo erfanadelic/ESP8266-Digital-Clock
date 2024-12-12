@@ -6,6 +6,7 @@
 - Enjoy Clock😊
   
 ## ⚙️ Features
+- Android app (Coming Soon)
 - connect to WIFI
 - show phone call & sms
 - Online Clock
