@@ -1,4 +1,5 @@
 # ESP8266-Digital-Clock
+## Corel File For Clock Box : <a href="https://raw.githubusercontent.com/erfanadelic/ESP8266-Smart-Digital-Clock/refs/heads/main/DigitalClockBox.cdr">Download</a>
 ## 🖥️How to install
 - Install Custom <a href="https://github.com/erfanadelic/ESP8266-Smart-Digital-Clock/tree/main/libraries">libraries</a>
 - Set WIFI (SSID-PASSWORLD) in main code
