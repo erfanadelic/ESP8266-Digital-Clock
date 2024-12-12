@@ -1,1 +1,20 @@
 # ESP8266-Digital-Clock
+## 🖥️How to install
+- Install Custom <a href="https://github.com/erfanadelic/ESP8266-Smart-Digital-Clock/tree/main/libraries">libraries</a>
+- Set WIFI (SSID-PASSWORLD) in main code
+- Uploaad code to hardware
+- Enjoy Clock😊
+  
+## ⚙️ Features
+- connect to WIFI
+- show phone call & sms
+- Online Clock
+- Show Persian Date
+- Upload over OTA (ArdinoOTA-ElegantOTA)
+  
+## 💾 Compatible hardware
+- ESP8266 : full support
+- ESP32 : with some code change
+
+
+## Make By ErfanAdeli
